@@ -9,6 +9,6 @@ task overview
 
 ![](ecg_classification/figures/ecg_heartbeat_ts.png)
 
-![](ecg_classification/figures/ecg_peaks.png.png)
+![](ecg_classification/figures/ecg_peaks.png)
 
 
